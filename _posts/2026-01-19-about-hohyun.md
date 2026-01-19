@@ -1,7 +1,9 @@
 ---
-title: "About"
+title: "About Hohyun"
+date: 2026-01-19
+categories: [About]
+tags: [profile, introduction, fullstack]
 layout: single
-permalink: /about/
 author_profile: true
 ---
 
@@ -44,7 +46,7 @@ author_profile: true
 - Docker  
 - GitHub Actions  
 - CI/CD 파이프라인 구축  
-- Cloud 환경 운영 경험  
+- Cloud 환경 운영  
 
 ---
 
@@ -59,5 +61,7 @@ author_profile: true
 ## 📬 소통
 궁금한 점이나 제안하고 싶은 내용이 있다면  
 GitHub 이슈나 트위터 DM으로 편하게 연락 주세요.
+
+> 기술은 나누면 더 강해진다고 믿습니다. 함께 성장해요!
 
 > 기술은 나누면 더 강해진다고 믿습니다. 함께 성장해요!
