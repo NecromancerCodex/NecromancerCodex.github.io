@@ -19,13 +19,16 @@
 # ---------------------------------------
 # Site Settings
 # ---------------------------------------
+# ---------------------------------------
+# Site Settings
+# ---------------------------------------
 title: "Hohyun Tech Blog"
 name: "Hohyun"
 description: >
   FastAPI, LLM, MSA, ESG, AI 시스템을 설계하고 구현하는 개발 기록
 
 url: "https://necromancercodex.github.io"
-baseurl: "/hohyun.study.com"   # 저장소 이름
+baseurl: ""   # 유저 페이지는 반드시 비워야 함
 
 timezone: "Asia/Seoul"
 locale: "ko-KR"
@@ -70,7 +73,7 @@ author:
       url: "https://github.com/necromancercodex"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://necromancercodex.github.io/hohyun.study.com"
+      url: "https://necromancercodex.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
